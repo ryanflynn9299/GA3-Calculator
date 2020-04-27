@@ -6,7 +6,7 @@ jdk:
 addons:
   sonarcloud:
     organization: jdgifgiegifugrsigskjsgeirgsrhjrskjdhfsihusugeuhdsskhyds
-    token: 98d77c8386da8eab320321e4eecc0758d3864218
+    token: 733f8eebbe9e66d7ec478f043dd0aadf15d2b697
 
 script: 
   - ant build
